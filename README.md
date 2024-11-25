@@ -1,5 +1,5 @@
 
-# 870-PhishingScamDetectionOnEthereum
+# Phishing Scam Detection on Ethereum Using Graph-based Machine Learning Models
 
 This repository includes multiple projects focused on phishing scam detection on the Ethereum blockchain, as well as parameter tuning and optimization for related algorithms.
 
